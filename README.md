@@ -4,6 +4,22 @@ We all are going through a tough time. The outbreak of Covid-19 has affected us 
 As a part of spreading awareness, I wanted to contribute a tiny bit hence this project.
 This project aims at providing a chrome extension which helps you keep track of Covid-19 statistics at all time. You do not need to navigate to a traker website to see the info. Saves time.
 
+## Working Demo
+<img src="demo.gif" width="50%" height="100%" />
+
+## Features 
+```
+1. At the start, it takes the client IP and maps to the state where the patient is. 
+   So you need not search for your state. Just a click and you have it.
+   
+2. You can see the stats for all the states in India by just one click.
+
+3. You have a nice search bar where you can type in the name of the state you are interested in 
+   and it filters out the records for you.
+   
+4. You can definetly search for custom states. As you type, the suggestions pop-ups to help you.
+```
+
 ## How to run as a Chrome Extension?
 The "dist" folder is uploaded for this same purpose.
 ```
@@ -12,6 +28,12 @@ The "dist" folder is uploaded for this same purpose.
 3. Enable Developer Mode
 4. Click on Load Unpacked
 5. Select the dist/Corona folder and you are good to go
+```
+
+## Future Works
+```
+1. Provide more robust filters.
+2. Integrate trending twitter tweets for corona virus.
 ```
 
 ## Contribute

@@ -1,27 +1,23 @@
-# Corona
+# Stat-Covid
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+We all are going through a tough time. The outbreak of Covid-19 has affected us in every possible way. Countless innocent lives are lost and the economy continues to fall. Hopefully there will be a vaccine for it soon. By then, prevention is the best cure. Stay Home and stay awared about the surroundings. <br><br>
+As a part of spreading awareness, I wanted to contribute a tiny bit hence this project.
+This project aims at providing a chrome extension which helps you keep track of Covid-19 statistics at all time. You do not need to navigate to a traker website to see the info. Saves time.
 
-## Development server
+## How to run as a Chrome Extension?
+The "dist" folder is uploaded for this same purpose.
+```
+1. git clone https://github.com/3point141/Stat-Covid.git
+2. Open chrome -> Settings -> More Tools -> Extensions
+3. Enable Developer Mode
+4. Click on Load Unpacked
+5. Select the dist/Corona folder and you are good to go
+```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Contribute
+I'd love to see new PR from you all. Let's make something beautiful out of it.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# Author
+Made with ❤️ by [Aman Kumar](https://github.com/3point141)<br>
+:zap: This project is in very early stage. Some bugs can be noticed frequently. Feel free to test and report the bugs. 
